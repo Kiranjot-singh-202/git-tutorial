@@ -1,26 +1,2 @@
-this is version 1 of software
-
-1. go to setting and then click on 'ssh and gpg keys'
-2. click on guide to 'generating ssh key'
-3. then click on link 'generating a new SSH key and adding it to the ssh-agent'
-4. follow steps and paste the command in 'Paste the text below, substituting in your GitHub email address.' , replace your email with the sample email in command. to the git bash 
-5. in git bash press enter when it ask for the file loation to save ssh key.
-6. type 'y' in overwrite command if adding ssh key not the first time , if adding first time then this command will not come .
-7. perss enter in enter passphrase and again enter in enter same passpharase again.  (no passphrase is required )
-
-8. now come to 'adding your ssh key to ssh-agent' section 
-9. follow the first command saying 'Ensure the ssh-agent is running. You can use the "Auto-launching the ssh-agent" instructions in "Working with SSH key passphrases", or start it manually:'
-10. paste the command in this section to git bash 
-11 . go to second step and paste the command in (Add your SSH private key to the ssh-agent. If you created your key with a different name, or if you are adding an existing key that has a different name, replace id_ed25519 in the command with the name of your private key file. ) in the git bash.
-
-12. in step 3 click on the link in the statement ( "Add the SSH public key to your account on GitHub. For more information, see "Adding a new SSH key to your GitHub account." )
-13. after clicking the link come to section ' adding new ssh key to your account '
-14. come to step 1 and paste the command in it in the git bash 
-15. it will copy ssh key to in computer to the clipboard.
-
-16. now come back to setting > ssh and gpg keys .
-17. in ssh key section click on button new ssh keys
-18. give title of your choice like ( personal computer / name of your choice)
-19. paste the copied ssh key in the 'key' section.
-20. finaly click on add key. 
-21. new kew is created.
+this is version 2 of software
+ 
